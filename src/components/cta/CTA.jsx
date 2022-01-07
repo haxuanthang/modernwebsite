@@ -1,11 +1,11 @@
 import React from 'react'
 
-const App = () => {
+const CTA = () => {
     return (
         <div>
-            <h1>UI UX Web</h1>
+            CTA
         </div>
     )
 }
 
-export default App
+export default CTA

@@ -1,11 +1,9 @@
 import React from 'react'
 
-const App = () => {
+export const Navbar = () => {
     return (
         <div>
-            <h1>UI UX Web</h1>
+            Navbar
         </div>
     )
 }
-
-export default App
