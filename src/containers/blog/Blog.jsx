@@ -13,10 +13,10 @@ const Blog = () => {
                 </h1>
             </div>
             <div className="gpt3__blog-container">
-                <div className='gpt3__blog-container__groupA'>
+                <div className='gpt3__blog-container_groupA'>
                     <Article imgUrl={blog01} date="Sep 26, 2021" title="abc" />
                 </div>
-                <div className='gpt3__blog-container__groupB'>
+                <div className='gpt3__blog-container_groupB'>
                     <Article imgUrl={blog02} date="Sep 26, 2021" title="abc" />
                     <Article imgUrl={blog03} date="Sep 26, 2021" title="abc" />
                     <Article imgUrl={blog04} date="Sep 26, 2021" title="abc" />
