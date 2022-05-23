@@ -1,0 +1,6 @@
+{
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "workbench.view.alwaysShowHeaderActions": false
+}

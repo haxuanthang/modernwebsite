@@ -10,7 +10,7 @@ const Header = () => {
                 <h1 className='gradient__text'>
                     Let’s Build Something
                     amazing with GPT-3
-                    OpenAI
+                    OpenAI and Elon Musk
                 </h1>
                 <p>Yet bed any for travelling assistance indulgence unpleasing.
                     Not thoughts all exercise blessing.
